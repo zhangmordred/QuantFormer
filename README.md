@@ -5,7 +5,7 @@ The code will be released at the end of August as expected.
 
 ## Citation
 
-Our work is available at arXiv [paper](https://arxiv.org/abs/2404.00424)
+Our [paper](https://arxiv.org/abs/2404.00424) is available at arXiv.
 ```bibtex
 @unpublished{zhang2024attention,
   title={From attention to profit: quantitative trading strategy based on {Q}uant{F}ormer},
