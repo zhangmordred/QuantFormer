@@ -5,7 +5,7 @@ The official implementation code of the work will be released at the end of Augu
 
 ## Citation
 
-Our [paper](https://arxiv.org/abs/2404.00424): *From attention to profit: quantitative trading strategy based on QransFormer* (which had been *From attention to profit: quantitative trading strategy based on transformer*) is available at arXiv.
+Our [paper](https://arxiv.org/abs/2404.00424): *From attention to profit: quantitative trading strategy based on QuantFormer* (which had been *From attention to profit: quantitative trading strategy based on transformer*) is available at arXiv.
 ```bibtex
 @unpublished{zhang2024attention,
   title={From attention to profit: quantitative trading strategy based on {Q}uant{F}ormer},
