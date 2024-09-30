@@ -3,6 +3,7 @@ How to utilize transformer in quantitative financial trading? Here we provide a 
 
 The official implementation code of the work will be released at the end of September as expected.
 
+![Image Alt Text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAW_YLZcAFptVBjeCyCp7AwXqdvsqGAikC1w&s)
 ## Citation
 
 Our [paper](https://arxiv.org/abs/2404.00424): *Quantformer: from attention to profit with a quantitative transformer trading strategy* (which had been *From attention to profit: quantitative trading strategy based on transformer*) is available at arXiv.
