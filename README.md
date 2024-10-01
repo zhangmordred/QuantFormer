@@ -6,7 +6,7 @@ The official implementation code of the work is available now!
 ![Overview](./Overview.png)
 
 ## Data Collection
-The training and backtesting data are collected from [AKShare](https://github.com/akfamily/akshare) and [TuShare](https://github.com/waditu/tushare) from 2010 to 2019. For each stock, the **adjusted** cumulated return and cumulated turnover rate in the setting timestamp will be collected (if training model by return directly, the result may be influenced as this is not ``reality return").
+The training and backtesting data are collected from [AKShare](https://github.com/akfamily/akshare) and [TuShare](https://github.com/waditu/tushare) from 2010 to 2019. For each stock, the **adjusted** cumulated return and cumulated turnover rate in the setting timestamp will be collected (if training model by return directly, the result may be influenced as this is not "reality return").
 
 ## Model Implementation
 
