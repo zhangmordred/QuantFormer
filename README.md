@@ -21,7 +21,9 @@ If feels difficult to backtest, [JoinQuant](https://www.joinquant.com/) could be
 
 ### Other Settings
 **Transaction fee**: 0.3% for each time long or short
+
 **Trading period**: 01/2020-05/2023
+
 **Adjusted time**: 9:30 am BJT (ITC+08)
 
 ## Further collaboration or questions
