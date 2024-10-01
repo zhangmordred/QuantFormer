@@ -17,7 +17,7 @@ The code of the model is shown in [quantformer]().
 ### Trading strategy
 Before the first trade date of the timestamp $t$, all sequence $\chi^{t} _{i,k}$ from the stock set $S^t$ will be put in the model and obtain the list of outputs. Then, the stocks will be ranked according to the first element of the output and the first $\frac{1}{q}$ % stocks will be added to the stock pool. If the stock already was in the stock pool on the last timestamp, it will be held; if the stock is in the predicted pool but not in the previous pool, it will be bought in with the same proportion of the whole account. Stocks that are not in the predicted pool will be sold out. The same method is run repeatedly during the subsequent periods. The backtest starts from January 2020, in other words, the result of the sequences from May 2018 to December 2019 will be used as the first stock pool to trade.
 
-If feels difficult to backtest, [JoinQuant](https://www.joinquant.com/) could be a considerrable platform to help you computation. By importing selected IDs of stocks, JoinQuant can simulate trading and show results to you.
+If feels difficult to backtest, [JoinQuant](https://www.joinquant.com/) could be a considerable platform to help you with computation. By importing selected IDs of stocks, JoinQuant can simulate trading and show results to you.
 
 ### Other Settings
 **Transaction fee**: 0.3% for each time long or short
