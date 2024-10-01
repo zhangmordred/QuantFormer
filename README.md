@@ -9,7 +9,9 @@ The official implementation code of the work is available now!
 The training and backtesting data are collected from [AKShare](https://github.com/akfamily/akshare) and [TuShare](https://github.com/waditu/tushare) from 2010 to 2019. For each stock, the **adjusted** cumulated return and cumulated turnover rate in the setting timestamp will be collected (if training model by return directly, the result may be influenced).
 
 ## Model implementation
-The code of the model is shown in [quantformer](). 
+The code of the model is shown in [quantformer](./Quantformer.ipynb). If necessary, we will upload the code in a py file. 
+
+The model is run in Python 3.8.3 (64-bit), torch version is 2.1.0+cpu and numpy version is 1.23.1. We are not sure if it will work properly under a lower version.
 
 ### Usage
 
