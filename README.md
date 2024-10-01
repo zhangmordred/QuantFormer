@@ -3,6 +3,9 @@ How to utilize transformer in quantitative financial trading? Here we provide a 
 
 The official implementation code of the work is available now!
 
+## Data Collection
+![Overview](main/Overview.png)
+
 ## Further collaboration or questions
 We are willing to collaborate and discuss this topic with those interested. If you want to further connect, you can contact the corresponding author via the paper in ArXiv by mail [zhangzf@umich.edu](mailto:zhangzf@umich.edu). 
 
