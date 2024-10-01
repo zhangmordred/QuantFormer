@@ -3,8 +3,14 @@ How to utilize transformer in quantitative financial trading? Here we provide a 
 
 The official implementation code of the work is available now!
 
-## Data Collection
 ![Overview](./Overview.png)
+
+## Data Collection
+The training and backtesting data are collected from [AKShare](https://github.com/akfamily/akshare) and [TuShare](https://github.com/waditu/tushare) from 2010 to 2019.  
+
+## Model Implementation
+
+## Backtest
 
 ## Further collaboration or questions
 We are willing to collaborate and discuss this topic with those interested. If you want to further connect, you can contact the corresponding author via the paper in ArXiv by mail [zhangzf@umich.edu](mailto:zhangzf@umich.edu). 
@@ -18,3 +24,6 @@ Our [paper](https://arxiv.org/abs/2404.00424): *Quantformer: from attention to p
   note={arXiv:2404.00424},
   year={2024}
 }
+
+## Acknowledgement
+
