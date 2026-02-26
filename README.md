@@ -1,5 +1,5 @@
 # Quantformer
-How to utilize transformer in quantitative financial trading? Here we provide a new model named Quantformer based on the transformer. 
+How to utilize transformer in quantitative financial trading? Here we provide a new model named quantformer based on the transformer. 
 
 The official implementation code of the work is available now!
 
@@ -30,13 +30,16 @@ If feels difficult to backtest, [JoinQuant](https://www.joinquant.com/) could be
 We are willing to collaborate and discuss this topic with those interested. If you want to further connect, you can contact the corresponding author via the paper in ArXiv by mail [zhangzf@umich.edu](mailto:zhangzf@umich.edu). 
 
 ## Citation
-Our [paper](https://arxiv.org/abs/2404.00424): *Quantformer: from attention to profit with a quantitative transformer trading strategy* (which had been *From attention to profit: quantitative trading strategy based on transformer*) is available at arXiv.
+Our [paper](https://www.sciencedirect.com/science/article/pii/S095741742600480X?dgcid=coauthor): *Quantformer: from attention to profit with a quantitative transformer trading strategy* (which had been *From attention to profit: quantitative trading strategy based on transformer*) is accepted by the Expert System with Applications*， in volume 313, 131567.
 ```bibtex
-@unpublished{zhang2024attention,
+@article{zhang2026quantformer,
   title={Quantformer: from attention to profit with a quantitative transformer trading strategy},
   author={Zhang, Zhaofeng and Chen, Banghao and Zhu, Shengxin and Langren{\'e}, Nicolas},
-  note={arXiv:2404.00424},
-  year={2024}
+  journal={Expert Systems with Applications},
+  volume={313},
+  pages={131567},
+  year={2026},
+  publisher={Elsevier}
 }
 
 
