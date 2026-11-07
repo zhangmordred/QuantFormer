@@ -27,10 +27,10 @@ If feels difficult to backtest, [JoinQuant](https://www.joinquant.com/) could be
 **Adjusted time**: 9:30 am BJT (ITC+08)
 
 ## Further collaboration or questions
-We are willing to collaborate and discuss this topic with those interested. If you want to further connect, you can contact the corresponding author via the paper in ArXiv by mail [zhangzf@umich.edu](mailto:zhangzf@umich.edu). 
+We are willing to collaborate and discuss this topic with those interested. If you want to further connect, you can contact the corresponding author via the paper in ArXiv by mail [zhaofeng.zhang@ed.ac.uk](mailto:zhaofeng.zhang@ed.ac.uk). 
 
 ## Citation
-Our [paper](https://www.sciencedirect.com/science/article/pii/S095741742600480X?dgcid=coauthor): *Quantformer: from attention to profit with a quantitative transformer trading strategy* (which had been *From attention to profit: quantitative trading strategy based on transformer*) is accepted by the Expert System with Applications*， in volume 313, 131567.
+Our [paper](https://www.sciencedirect.com/science/article/pii/S095741742600480X?dgcid=coauthor): *Quantformer: from attention to profit with a quantitative transformer trading strategy* (which had been *From attention to profit: quantitative trading strategy based on transformer*) is accepted by the Expert System with Applications*，in volume 313, 131567.
 ```bibtex
 @article{zhang2026quantformer,
   title={Quantformer: from attention to profit with a quantitative transformer trading strategy},
